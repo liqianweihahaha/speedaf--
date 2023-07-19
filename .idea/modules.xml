@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../platform_transaction_api_test/.idea/platform_transaction_api_test.iml" filepath="$PROJECT_DIR$/../platform_transaction_api_test/.idea/platform_transaction_api_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/speedaf_oms.iml" filepath="$PROJECT_DIR$/.idea/speedaf_oms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../wish_project/.idea/wish_project.iml" filepath="$PROJECT_DIR$/../wish_project/.idea/wish_project.iml" />
+    </modules>
+  </component>
+</project>
